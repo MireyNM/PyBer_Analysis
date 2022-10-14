@@ -1,5 +1,5 @@
 # PyBer_Analysis
-Module 5 in CU Bootcamp
+
 ## Project Overview 
 In this project, we are working for a Python-based ridesharing app company. Our first assignment was to analyze all the rideshare data from January to early May of 2019 and create a compelling visualization for the CEO, V. Isualize. Our second assignment was to do the following tasks: </br>
 1. Use Python and Pandas to create a summary DataFrame of the ride-sharing data by city type. </br>
